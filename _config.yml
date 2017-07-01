@@ -69,5 +69,6 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy: git@github.com:LinnQ/LinnQ.github.io.git
-  type: git
+deploy: 
+  type: git 
+  repo: git@github.com:LinnQ/LinnQ.github.io.git
